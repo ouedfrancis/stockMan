@@ -1,0 +1,51 @@
+codeProduit;libelle;categorieProduit;fabricant;marque;modele;tags;description;typeProduit;poids;volume;uniteDeMesure;prixVente;codeBarre;conditionnementVente;perissable;soumisALaVente;reapprovisionnementAuto;actif
+P001;Support écran 28;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;1967;362525853893;Unité;Non;Non;Non;Oui
+P002;Armoire de rangement 23;Fournitures;Kingston;IronKey;IKS-1000;"données; sécurisé";Clé USB avec chiffrement matériel;Consommable;0.05;0.002;kg;79;832720315444;Unité;Non;Oui;Oui;Oui
+P003;Casier de tri postal 28;Matériel;Cassida;Pro-45;Pro-45;"sécurité; billets";Vérifie l’authenticité des billets;Stockable;2;0.05;kg;297;938836539987;Boîte;Non;Non;Oui;Oui
+P004;Distributeur d’eau 61;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;1972;253136081287;Unité;Non;Non;Non;Oui
+P005;Écran de confidentialité 37;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;2026;794979895424;Unité;Non;Non;Non;Oui
+P006;Clé USB sécurisée 42;Matériel;Safescan;X-2000;X-2000;"billets; banque";Machine pour compter les billets;Stockable;5;0.1;kg;468;897528025347;Boîte;Non;Non;Oui;Oui
+P007;Détecteur de faux billets 38;Matériel;Safescan;X-2000;X-2000;"billets; banque";Machine pour compter les billets;Stockable;5;0.1;kg;468;389655233347;Boîte;Non;Non;Oui;Oui
+P008;Détecteur de faux billets 78;Matériel;Fujitsu;ScanSnap;iX1600;"scanner; documents";Scanner rapide pour numérisation de documents;Stockable;4;0.15;kg;417;781036718169;Unité;Non;Non;Oui;Oui
+P009;Lampe de bureau 97;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;-11;749589886376;Unité;Non;Oui;Oui;Oui
+P010;Plante d'intérieur 80;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;2026;578493085958;Unité;Non;Non;Non;Oui
+P011;Coffre-fort bancaire 32;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;251;503320797172;Unité;Non;Oui;Oui;Oui
+P012;Armoire de rangement 20;Fournitures;Rapid;HD-50;HD-50;"billets; agrafage";Agrafeuse pour regrouper les billets;Consommable;1;0.02;kg;39;118773754406;Unité;Non;Oui;Oui;Oui
+P013;Ventilateur de bureau 68;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;-9;124407814397;Unité;Non;Oui;Oui;Oui
+P014;Horloge murale 14;Matériel;Cassida;Pro-45;Pro-45;"sécurité; billets";Vérifie l’authenticité des billets;Stockable;2;0.05;kg;329;935467245967;Boîte;Non;Non;Oui;Oui
+P015;Bureau en bois 68;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;209;317821304877;Unité;Non;Oui;Oui;Oui
+P016;Horloge murale 66;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;16;433736613394;Unité;Non;Oui;Oui;Oui
+P017;Projecteur LED 4;Matériel;Safescan;X-2000;X-2000;"billets; banque";Machine pour compter les billets;Stockable;5;0.1;kg;542;367648824809;Boîte;Non;Non;Oui;Oui
+P018;Bureau en bois 45;Fournitures;Kingston;IronKey;IKS-1000;"données; sécurisé";Clé USB avec chiffrement matériel;Consommable;0.05;0.002;kg;135;981320150544;Unité;Non;Oui;Oui;Oui
+P019;Imprimante de reçus 25;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;1962;612136133840;Unité;Non;Non;Non;Oui
+P020;Tampon encreur 48;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;1971;158080936504;Unité;Non;Non;Non;Oui
+P021;Scanner de documents 54;Matériel;Cassida;Pro-45;Pro-45;"sécurité; billets";Vérifie l’authenticité des billets;Stockable;2;0.05;kg;278;712776356363;Boîte;Non;Non;Oui;Oui
+P022;Horloge murale 29;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;282;699858774481;Unité;Non;Oui;Oui;Oui
+P023;Détecteur de faux billets 27;Matériel;Safescan;X-2000;X-2000;"billets; banque";Machine pour compter les billets;Stockable;5;0.1;kg;460;607088677009;Boîte;Non;Non;Oui;Oui
+P024;Lampe de bureau 95;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;1993;884005622018;Unité;Non;Non;Non;Oui
+P025;Clé USB sécurisée 70;Fournitures;Kingston;IronKey;IKS-1000;"données; sécurisé";Clé USB avec chiffrement matériel;Consommable;0.05;0.002;kg;89;839988814370;Unité;Non;Oui;Oui;Oui
+P026;Plante d'intérieur 13;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;2034;243642822346;Unité;Non;Non;Non;Oui
+P027;Tableau blanc 10;Fournitures;Rapid;HD-50;HD-50;"billets; agrafage";Agrafeuse pour regrouper les billets;Consommable;1;0.02;kg;6;286335883022;Unité;Non;Oui;Oui;Oui
+P028;Support écran 64;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;2044;587588519980;Unité;Non;Non;Non;Oui
+P029;Chaise ergonomique 65;Fournitures;Rapid;HD-50;HD-50;"billets; agrafage";Agrafeuse pour regrouper les billets;Consommable;1;0.02;kg;89;125484983516;Unité;Non;Oui;Oui;Oui
+P030;Projecteur LED 7;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;251;142535004928;Unité;Non;Oui;Oui;Oui
+P031;Coffre-fort bancaire 25;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;61;152655742473;Unité;Non;Oui;Oui;Oui
+P032;Ventilateur de bureau 86;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;-24;899431702324;Unité;Non;Oui;Oui;Oui
+P033;Agrafeuse de billets 63;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;-25;642472235725;Unité;Non;Oui;Oui;Oui
+P034;Chaise ergonomique 14;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;-16;885322523381;Unité;Non;Oui;Oui;Oui
+P035;Scanner de documents 11;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;268;309371796504;Unité;Non;Oui;Oui;Oui
+P036;Stylo à encre indélébile 79;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;29;401864081114;Unité;Non;Oui;Oui;Oui
+P037;Coffre-fort bancaire 96;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;275;284343437300;Unité;Non;Oui;Oui;Oui
+P038;Horloge murale 49;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;262;915151260961;Unité;Non;Oui;Oui;Oui
+P039;Multiprise sécurisée 24;Fournitures;Rapid;HD-50;HD-50;"billets; agrafage";Agrafeuse pour regrouper les billets;Consommable;1;0.02;kg;66;191355927764;Unité;Non;Oui;Oui;Oui
+P040;Écran de confidentialité 25;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;1;383972148065;Unité;Non;Oui;Oui;Oui
+P041;Casier métallique 37;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;265;636701311002;Unité;Non;Oui;Oui;Oui
+P042;Chaise ergonomique 25;Fournitures;Rapid;HD-50;HD-50;"billets; agrafage";Agrafeuse pour regrouper les billets;Consommable;1;0.02;kg;66;145082737940;Unité;Non;Oui;Oui;Oui
+P043;Souris ergonomique 95;Matériel;Cassida;Pro-45;Pro-45;"sécurité; billets";Vérifie l’authenticité des billets;Stockable;2;0.05;kg;328;521800105201;Boîte;Non;Non;Oui;Oui
+P044;Casier de tri postal 84;Fournitures;Rapid;HD-50;HD-50;"billets; agrafage";Agrafeuse pour regrouper les billets;Consommable;1;0.02;kg;67;599862388355;Unité;Non;Oui;Oui;Oui
+P045;Bureau en bois 2;Matériel;Safescan;X-2000;X-2000;"billets; banque";Machine pour compter les billets;Stockable;5;0.1;kg;488;551420049172;Boîte;Non;Non;Oui;Oui
+P046;Téléphone IP 5;Matériel;Epson;TM-T88;TM-T88V;"imprimante; reçu";Imprimante thermique pour reçus bancaires;Stockable;3;0.2;kg;292;219939403673;Unité;Non;Oui;Oui;Oui
+P047;Lampe de bureau 39;Matériel;Cassida;Pro-45;Pro-45;"sécurité; billets";Vérifie l’authenticité des billets;Stockable;2;0.05;kg;349;725748143929;Boîte;Non;Non;Oui;Oui
+P048;Casier métallique 9;Fournitures;Trodat;Bank-01;Bank-01;"tampon; signature";Tampon utilisé pour valider les documents;Consommable;0.3;0.005;kg;-6;885254471331;Unité;Non;Oui;Oui;Oui
+P049;Imprimante de reçus 25;Matériel;Chubbsafes;Banker;Banker-200;"sécurité; coffre";Coffre-fort résistant aux effractions;Stockable;100;1.5;kg;1983;506431674915;Unité;Non;Non;Non;Oui
+P050;Support écran 15;Matériel;Fujitsu;ScanSnap;iX1600;"scanner; documents";Scanner rapide pour numérisation de documents;Stockable;4;0.15;kg;433;434318502144;Unité;Non;Non;Oui;Oui

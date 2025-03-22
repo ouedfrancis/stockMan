@@ -1,0 +1,105 @@
+codeProduit;libelle;categorieProduit;fabricant;formePharmaceutique;voiesAdministration;tags;description;typeProduit;poids;volume;uniteDeMesure;prixVente;codeBarre;conditionnementVente;soumisAPrescription;soumisALaVente;reapprovisionnementAuto;actif
+64793681;DOLIPRANE 100 mg, poudre pour solution buvable en sachet-dose;Antalgique;;poudre pour solution buvable;orale;;;;;;;;;;true;true;true;true
+66057393;DOLIPRANE 100 mg, suppositoire sécable;Antalgique;;suppositoire sécable;rectale;;;;;;;;;;true;true;true;true
+60234100;DOLIPRANE 1000 mg, comprimé;Antalgique;;comprimé;orale;;;;;;;;;;true;true;true;true
+66567738;DOLIPRANE 1000 mg, comprimé effervescent sécable;Antalgique;;comprimé effervescent(e) sécable;orale;;;;;;;;;;true;true;true;true
+69309629;DOLIPRANE 1000 mg, gélule;Antalgique;;gélule;orale;;;;;;;;;;true;true;true;true
+61681702;DOLIPRANE 1000 mg, poudre pour solution buvable en sachet-dose;Antalgique;;poudre pour solution buvable;orale;;;;;;;;;;true;true;true;true
+65103838;DOLIPRANE 150 mg, poudre pour solution buvable en sachet-dose;Antalgique;;poudre pour solution buvable;orale;;;;;;;;;;true;true;true;true
+60310861;DOLIPRANE 150 mg, suppositoire;Antalgique;;suppositoire;rectale;;;;;;;;;;true;true;true;true
+66477582;DOLIPRANE 2,4 POUR CENT SANS SUCRE, suspension buvable édulcorée au maltitol liquide et au sorbitol;Antalgique;;suspension buvable;orale;;;;;;;;;;true;true;true;true
+68794211;DOLIPRANE 200 mg, poudre pour solution buvable en sachet-dose;Antalgique;;poudre pour solution buvable;orale;;;;;;;;;;true;true;true;true
+64361369;DOLIPRANE 200 mg, suppositoire;Antalgique;;suppositoire;rectale;;;;;;;;;;true;true;true;true
+69002078;DOLIPRANE 300 mg, poudre pour solution buvable en sachet-dose;Antalgique;;poudre pour solution buvable;orale;;;;;;;;;;true;true;true;true
+67210479;DOLIPRANE 300 mg, suppositoire;Antalgique;;suppositoire;rectale;;;;;;;;;;true;true;true;true
+63368332;DOLIPRANE 500 mg, comprimé;Antalgique;;comprimé;orale;;;;;;;;;;true;true;true;true
+65196753;DOLIPRANE 500 mg, comprimé effervescent;Antalgique;;comprimé effervescent(e);orale;;;;;;;;;;true;true;true;true
+67119691;DOLIPRANE 500 mg, gélule;Antalgique;;gélule;orale;;;;;;;;;;true;true;true;true
+66731536;DOLIPRANE 500 mg, poudre pour solution buvable en sachet-dose;Antalgique;;poudre pour solution buvable;orale;;;;;;;;;;true;true;true;true
+67488731;DOLIPRANE ADULTES 1000 mg, suppositoire;Antalgique;;suppositoire;rectale;;;;;;;;;;true;true;true;true
+64168434;DOLIPRANE CODEINE 400 mg/20 mg, comprimé sécable;Antalgique;;comprimé sécable;orale;;;;;;;;;;true;true;true;true
+61903804;DOLIPRANE CAPS 1000 mg, gélule;Antalgique;;gélule;orale;;;;;;;;;;true;true;true;true
+61735267;DOLIPRANELIQUIZ 200 mg SANS SUCRE, suspension buvable en sachet édulcorée au maltitol liquide et au sorbitol;Antalgique;;suspension buvable;orale;;;;;;;;;;true;true;true;true
+68513251;DOLIPRANE LIQUIZ 300 mg SANS SUCRE, suspension buvable en sachet édulcorée au maltitol liquide et au sorbitol;Antalgique;;suspension buvable;orale;;;;;;;;;;true;true;true;true
+67747372;DOLIPRANE ORODOZ 500 mg, comprimé orodispersible;Antalgique;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+60641854;DOLIPRANETABS 1000 mg, comprimé pelliculé;Antalgique;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+66185425;DOLIPRANETABS 500 mg, comprimé pelliculé;Antalgique;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+69636399;DOLIPRANE VITAMINEC 500 mg/150 mg, comprimé effervescent;;;comprimé effervescent(e);orale;;;;;;;;;;true;true;true;true
+65089833;DOLIRHUME PARACETAMOL ET PSEUDOEPHEDRINE 500 mg/30 mg, comprimé;;;comprimé;orale;;;;;;;;;;true;true;true;true
+62554138;DOLIRHUME THIOPHENECARBOXYLATE 2 %, solution pour pulvérisation nasale;;;solution pour pulvérisation;nasale;;;;;;;;;;true;true;true;true
+60028495;DOLIRHUME PRO PARACETAMOL, PSEUDOEPHEDRINE ET DOXYLAMINE, comprimé;;;comprimé et  comprimé;orale;;;;;;;;;;true;true;true;true
+61162305;DOLKO 1 g, comprimé sécable;;;comprimé sécable;orale;;;;;;;;;;true;true;true;true
+68691955;DOLKO 500 mg, comprimé sécable;;;comprimé sécable;orale;;;;;;;;;;true;true;true;true
+66813008;DOLKO 500 mg, poudre pour solution buvable en sachet;;;poudre buvable pour solution;orale;;;;;;;;;;true;true;true;true
+63019537;DOLKO 60 mg/2 ml, solution buvable en flacon;;;solution buvable;orale;;;;;;;;;;true;true;true;true
+60508430;DOLODENT, solution gingivale;;;solution;gingivale;;;;;;;;;;true;true;true;true
+68669097;DOLOSOFT 450 mg, comprimé enrobé gastrorésistant;;;comprimé enrobé gastro-résistant(e);orale;;;;;;;;;;true;true;true;true
+60252027;DOLOSPASMYL 60 mg/300 mg, capsule molle;;;capsule molle;orale;;;;;;;;;;true;true;true;true
+63630635;DOMPERIDONE ALMUS 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+62128302;DOMPERIDONE ARROW 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+68427304;DOMPERIDONE ARROW 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+63333858;DOMPERIDONE BIOGARAN 10 mg, comprimé orodispersible;;BIOGARAN;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+63394334;DOMPERIDONE BIOGARAN 10 mg, comprimé pelliculé;;BIOGARAN;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+66152959;DOMPERIDONE CRISTERS 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+60764337;DOMPERIDONE EG 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+65938724;DOMPERIDONE EG 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+69139269;DOMPERIDONE MYLAN 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+66398576;DOMPERIDONE MYLAN 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+69916757;DOMPERIDONE SANDOZ 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+60639091;DOMPERIDONE SANDOZ 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+66585953;DOMPERIDONE TEVA 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+65065017;DOMPERIDONE ZENTIVA 10 mg, comprimé orodispersible;;ZENTIVA ;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+62417552;DOMPERIDONE ZENTIVA 10 mg, comprimé pelliculé;;ZENTIVA ;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+68054595;DOMPERIDONE ZYDUS 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+69311110;DONASERT 52 mg (20 microgrammes/24 heures), dispositif intra-utérin;;;dispositif;intra-utérine;;;;;;;;;;true;true;true;true
+66782630;DONEPEZIL ACCORD 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+66596864;DONEPEZIL ACCORD 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+66317873;DONEPEZIL ALTER 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+61094391;DONEPEZIL ARROW 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+64813949;DONEPEZIL ARROW 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+63912232;DONEPEZIL ARROW GENERIQUES 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+64686163;DONEPEZIL ARROW GENERIQUES 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+60150467;DONEPEZIL ARROW GENERIQUES 5 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+61768776;DONEPEZIL ARROW GENERIQUES 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+61869049;DONEPEZIL BIOGARAN 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+60618161;DONEPEZIL BIOGARAN 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+60044492;DONEPEZIL CRISTERS 5 mg, comprimé pelliculé;;;comprimé;orale;;;;;;;;;;true;true;true;true
+62258064;DONEPEZIL CRISTERS10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+64024786;DONEPEZIL EG 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+67257660;DONEPEZIL EG 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+63122238;DONEPEZIL EVOLUGEN 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+61350780;DONEPEZIL EVOLUGEN 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+64312190;DONEPEZIL KRKA 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+64282911;DONEPEZIL KRKA 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+60073907;DONEPEZIL MYLAN 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+60715308;DONEPEZIL MYLAN 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+61342890;DONEPEZIL MYLAN 5 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+62410369;DONEPEZIL MYLAN 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+61129173;DONEPEZIL PFIZER 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+62793519;DONEPEZIL PFIZER 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+64461572;DONEPEZIL RANBAXY 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+60919086;DONEPEZIL RANBAXY 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+68474250;DONEPEZIL SANDOZ 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+60468103;DONEPEZIL SANDOZ 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+67989646;DONEPEZIL SANDOZ 5 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+64267973;DONEPEZIL SANDOZ 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+61400781;DONEPEZIL TEVA 10 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+62705768;DONEPEZIL TEVA 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+63688528;DONEPEZIL TEVA 5 mg, comprimé orodispersible;;;comprimé orodispersible;orale;;;;;;;;;;true;true;true;true
+60876140;DONEPEZIL TEVA 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+66014082;DONEPEZIL TEVA SANTE 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+65823597;DONEPEZIL TEVA SANTE 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+68369527;DONEPEZIL ZENTIVA 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+61842034;DONEPEZIL ZENTIVA 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+65651044;DONEPEZIL ZYDUS 10 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+60502559;DONEPEZIL ZYDUS 5 mg, comprimé pelliculé;;;comprimé pelliculé;orale;;;;;;;;;;true;true;true;true
+67103299;DONORMYL 15 mg, comprimé effervescent sécable;;;comprimé effervescent(e) sécable;orale;;;;;;;;;;true;true;true;true
+62382724;DONORMYL 15 mg, comprimé pelliculé sécable;;;comprimé pelliculé sécable;orale;;;;;;;;;;true;true;true;true
+67746384;DOPACEPTIN 10 mg /ml, solution injectable en cartouche;;;solution injectable;sous-cutanée;;;;;;;;;;true;true;true;true
+65959832;DOPACEPTIN 5 mg/ml, solution pour perfusion;;;solution pour perfusion;sous-cutanée;;;;;;;;;;true;true;true;true
+62062343;DOPACIS 90 MBq/mL, solution injectable;;;solution injectable;intraveineuse;;;;;;;;;;true;true;true;true
+68393478;DOPAMINE BOIRON, degré de dilution compris entre 3CH et 30CH ou entre 5DH et 60DH;Dopaminergique;;granules;orale,sublinguale;;;;;;;;;;true;true;true;true
+64548283;DOPAMINE MYLAN 40 mg/ml, solution pour perfusion;Dopaminergique;;solution pour perfusion;intraveineuse;;;;;;;;;;true;true;true;true
+67708864;DOPAMINE MYLAN 5mg/ml, solution pour perfusion;Dopaminergique;;solution pour perfusion;intraveineuse;;;;;;;;;;true;true;true;true
+66896153;DOPAMINE RENAUDIN 40 mg/ml, solution pour perfusion;Dopaminergique;;solution pour perfusion;intraveineuse;;;;;;;;;;true;true;true;true
+63099647;DOPAVIEW 222 MBq/mL, solution injectable;Dopaminergique;;solution injectable;intraveineuse;;;;;;;;;;true;true;true;true
